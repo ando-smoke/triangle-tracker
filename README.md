@@ -1,4 +1,4 @@
-Word Order
+Triangle Tracker
 ======================
 
 Takes in three positive integers and determines whether or not they
