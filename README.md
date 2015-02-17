@@ -11,7 +11,9 @@ Installation
 ------------
 
 Clone this project onto your local system and open the enclosed
-triangle-tracker.html file in your preferred web browser.
+triangle-tracker.html file in your preferred web browser. Of note, a
+browser utilizing HTML5 is required for proper data validation of
+inputs (i.e. nonnegative integers are required for all three fields).
 
 Usage
 -----
